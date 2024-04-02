@@ -1,2 +1,2 @@
 # weather_app
-weather app using html and css
+weather app using html and css and javascript
